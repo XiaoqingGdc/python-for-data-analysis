@@ -55,7 +55,4 @@ Je mettrai ce dépôt à jour régulièrement avec mes nouvelles avancées.
 
 ---
 
-## 🤝 Contact | 联系方式 | Contact
-If you want to connect or collaborate, feel free to reach out.  
-如需交流或合作，欢迎联系我。  
-N’hésitez pas à me contacter pour échanger ou collaborer.
+
