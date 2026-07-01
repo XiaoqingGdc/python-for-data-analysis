@@ -1,0 +1,4 @@
+#把字符串里的所有字母大小写反转。
+
+def is_opposite(s1, s2):
+    return s1 != "" and s2 != "" and s1.swapcase() == s2
